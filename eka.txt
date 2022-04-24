@@ -1,3 +1,1 @@
-Hei maailma
-
-gittin eka testi
+Hei, tässä 1. versio.
